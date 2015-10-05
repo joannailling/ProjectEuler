@@ -1,6 +1,4 @@
-
 package projecteuler;
-
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -9,9 +7,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 
-
 /**
- *
  * @author jmilling
  */
 public class ProjectEuler {
